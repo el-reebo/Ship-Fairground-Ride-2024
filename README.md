@@ -10,6 +10,8 @@
 
 The project will open in a small window. Click on the window and press Win + Up Arrow to full screen the application.
 
+Press esc to close the window.
+
 ## Controls
 ### Camera Controls
 w - move forward
