@@ -1,0 +1,92 @@
+# Blender 4.0.2 MTL File: 'ship_ride.blend'
+# www.blender.org
+
+newmtl Material.005
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl along
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/alongg.png
+
+newmtl along.001
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/alongg.png
+
+newmtl along.002
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/alongg.png
+
+newmtl along.003
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/alongg.png
+
+newmtl vertical
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/verticall.png
+
+newmtl vertical.001
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/verticall.png
+
+newmtl vertical.002
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/verticall.png
+
+newmtl vertical.003
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/loren/File Director/home/Documents/Graphics/graphics_coursework/assets/fence/tex/verticall.png
